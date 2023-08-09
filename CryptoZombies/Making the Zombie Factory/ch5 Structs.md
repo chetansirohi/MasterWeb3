@@ -1,12 +1,12 @@
 Structs allow you to create more complicated data types that have multiple properties.
 
 Example
-
+```
 struct Person {
 uint age;
 string name;
 }
-
+```
 Solution
 
 ```
