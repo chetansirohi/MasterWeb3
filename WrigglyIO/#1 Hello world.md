@@ -26,7 +26,7 @@ contract Solution {
 	function helloWorld() public pure returns (string memory) 
 	{
 		//Code here! 
-      return "Hello World";
+      		return "Hello World";
 	} 
 }
 ```
