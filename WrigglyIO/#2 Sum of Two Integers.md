@@ -21,7 +21,7 @@ Hints
   Add the two numbers in O(1) time.
 ```
 
-Solution
+### Solution
 ```
   pragma solidity >=0.4.22 <0.9.0;
 
