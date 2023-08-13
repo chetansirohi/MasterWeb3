@@ -10,3 +10,5 @@ Please note that any use of the content provided by Wriggly.io, including code e
 For more information about the terms of use for Wriggly.io's content, please refer to their official documentation and licensing information.
 
 I acknowledge and respect the contributions of Wriggly.io to the development community and express my gratitude for the valuable resources they provide.
+
+Personal Observation - The IDE is primitive and any omission of simple grammer may cause an error
