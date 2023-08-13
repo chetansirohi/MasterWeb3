@@ -52,8 +52,10 @@ contract Crowdfunding {
     function withdrawFunds() public restricted {
         // TODO: allow the owner to withdraw the entire balance of the contract
         require(totalRaised > 0, "There are no funds to withdraw.");
-        payable(owner).transfer(totalRaised);
-        totalRaised = 0;
+        uint amtPayable = totalRaised;
+        totalRaised =0;
+        payable(owner).transfer(amtPayable);
+        
     }
 
     modifier restricted() {
@@ -61,4 +63,5 @@ contract Crowdfunding {
         _;
     }
 }
+
 ```
