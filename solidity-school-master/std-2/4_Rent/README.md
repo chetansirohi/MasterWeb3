@@ -17,3 +17,10 @@ A contract can have at most one receive function, declared using `receive() exte
 Know more: https://solidity.readthedocs.io/en/latest/contracts.html#receive-ether-function
 
 
+### Observations/Differences/Learnings
+
+- constructor  and payable functions
+- incorrect code on comparison, corrected upon comparing, did not read the description clearly for initilizing all the requirements in the constructor
+- transfer / send methods
+
+
