@@ -24,3 +24,6 @@ Interfaces are similar to abstract contracts, but they cannot have any functions
 - They cannot declare modifiers.
 
 Know more: https://docs.soliditylang.org/en/v0.8.20/contracts.html#interfaces
+
+### Observations/Differences/Learnings
+- Usage of Interface, the keywords associated, the limitations
