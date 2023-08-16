@@ -10,3 +10,8 @@ Solidity has introduced both signed and unsigned integer numbers of various size
 
 ### State Variable
 Variables in Ethereum usually refers as 'State Variables'. State variables are values which are permanently stored in contract storage. Think of it as a single slot in a database that can be queried and altered by calling functions of the code that manages the database.
+
+
+### Observations/Differences
+
+ - Global storage, getter and setter functions
