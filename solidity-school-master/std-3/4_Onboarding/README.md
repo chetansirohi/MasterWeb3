@@ -16,3 +16,7 @@ Contracts must be marked as abstract when at least one of their functions is not
 An abstract contract is declared using the abstract keyword. If a contract inherits from an abstract contract and does not implement all non-implemented functions by overriding, it needs to be marked as abstract as well.
 
 Know more: https://docs.soliditylang.org/en/latest/contracts.html#abstract-contracts
+
+### Observations/Differences/Learnings
+
+- Abstract Contracts, overriding
