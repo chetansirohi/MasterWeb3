@@ -8,3 +8,7 @@ To define a function which should not consume any gas and return the response im
 
 * <b>View Functions:</b> Functions can be declared view in which case they promise not to modify the state.
 * <b>Pure Functions:</b> Functions can be declared pure in which case they promise not to read from or modify the state.
+
+### Learning Outcomes
+
+ - Basic function return alongwith view and pure functions
