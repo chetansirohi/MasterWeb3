@@ -14,3 +14,7 @@ Libraries are similar to contracts, but their purpose is that they are deployed 
 It is possible to obtain the address of a library by converting the library type to the address type, i.e. using `address(LibraryName)`
 
 Know more: https://docs.soliditylang.org/en/latest/contracts.html#libraries
+
+### Observations/Differences/Learnings
+
+- Library and its usage
