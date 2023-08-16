@@ -16,3 +16,9 @@ Base functions can be overridden by inheriting contracts to change their behavio
 The overriding function may only change the visibility of the overridden function from `external` to `public`. The mutability may be changed to a more strict one following the order: `nonpayable` can be overridden by `view` and `pure`. `view` can be overridden by `pure`. `payable` is an exception and cannot be changed to any other mutability.
 
 Know more: https://docs.soliditylang.org/en/latest/contracts.html#function-overriding
+
+
+### Observations/Differences/Learnings
+
+- Inheritance with keywords usage like virtual and override
+- Used incorrect keywords for making the base contract inheritable , corrected the keywords
