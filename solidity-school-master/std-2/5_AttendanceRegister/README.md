@@ -28,4 +28,10 @@ Explicit returns from a modifier or function body only leave the current modifie
 
 Arbitrary expressions are allowed for modifier arguments and in this context, all symbols visible from the function are visible in the modifier. Symbols introduced in the modifier are not visible in the function (as they might change by overriding).
 
+### Observations/Differences/Learnings
 
+- Structs
+- Modifiers
+- Mapping with Structs
+- Incorrect Struct formation for JoiningDate, incorrect Mapping formation, forgot to initialize rollnumber/ unique id to be used as key for mapping, forgot require statment in function add for class 1-12 , storing data in mapping, incrementing the rollnumber and storing corresponding Struct data to the rollnumber by using a mapping, incorrect event format emitted
+- Corrected the struct for joinDate, formulated the correct mapping where rollnumber is key and the struct data is value, intialized a unique global identifier as rollnumber, added a require statement, incremented the unique identifier rollnumber, correctly associated Struct data to rollnumber in a mapping and emitted the event with correct format
