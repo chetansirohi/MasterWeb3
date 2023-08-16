@@ -19,4 +19,6 @@ Enums are one way to create a user-defined type in Solidity. They are explicitly
 
 The data representation is the same as for enums in C: The options are represented by subsequent unsigned integer values starting from 0.
 
+### Observations/Differences/Learnings
 
+- Enum
