@@ -19,3 +19,8 @@ Suffixes like seconds, minutes, hours, days and weeks after literal numbers can 
 ```
 
 To get current time, `block.timestamp` can be used being aware about the fact that it can be influenced by miners to some degree. It retuns `uint`.
+
+
+### Observations/Differences/Learnings
+
+- Time in Solidity
