@@ -29,3 +29,7 @@ Dynamic storage arrays and bytes (not string) have a member function called push
 Dynamic storage arrays and bytes (not string) have a member function called pop that you can use to remove an element from the end of the array. This also implicitly calls delete on the removed element.
 
 Know  more about Array in Solidity here: https://solidity.readthedocs.io/en/latest/types.html#arrays
+
+### Observations/Differences/Learnings
+
+- Array and its Operations
