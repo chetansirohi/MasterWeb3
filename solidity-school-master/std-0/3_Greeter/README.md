@@ -21,3 +21,9 @@ Functions have to be specified as being `external`, `public`, `internal` or `pri
 * <b>public:</b> Public functions are part of the contract interface and can be either called internally or via messages. For public state variables, an automatic getter function is generated.
 * <b>internal:</b> Those functions and state variables can only be accessed internally (i.e. from within the current contract or contracts deriving from it), without using `this`.
 * <b>private:</b> Private functions and state variables are only visible for the contract they are defined in and not in derived contracts.
+
+
+### Observations/Differences/Learnings
+
+- Visibility modifiers
+- Used incorrect visibility for global string , corrected after comparing code
