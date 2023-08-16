@@ -19,3 +19,8 @@ Write a contract 'ThreeAndSeven' which implements a function named check.
 * != (inequality)
 
 The operators `||` and `&&` apply the common short-circuiting rules. This means that in the expression `f(x) || g(y)`, if `f(x)` evaluates to true, `g(y)` will not be evaluated even if it may have side-effects.
+
+
+### Observations/Differences/Learnings
+
+- Combining Logicial Operators 
