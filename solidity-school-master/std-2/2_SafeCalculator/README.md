@@ -20,3 +20,7 @@ Use `require` or `assert`.
 * `revert(string memory reason)`:abort execution and revert state changes, providing an explanatory string
 
 See the dedicated section on assert and require for more details on error handling and when to use which function here: https://solidity.readthedocs.io/en/latest/control-structures.html#error-handling-assert-require-revert-and-exceptions
+
+### Observations/Differences/Learnings
+
+ - Error Handling through keywords assert/require
