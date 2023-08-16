@@ -14,3 +14,9 @@ Contracts can inherit interfaces as they would inherit other contracts.
 Interfaces can inherit from other interfaces. This has the same rules as normal inheritance.
 
 Know more: https://docs.soliditylang.org/en/v0.8.20/contracts.html#interfaces
+
+### Observations/Differences/Learning
+
+- Interface inheritance
+- Order of contract inheriting from Interface
+- Corrected order of Interface and Contract
