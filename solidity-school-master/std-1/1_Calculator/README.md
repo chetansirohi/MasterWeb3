@@ -20,3 +20,6 @@ Trust in smart contracts can be better established if their source code is avail
 
 `// SPDX-License-Identifier: MIT`
 
+
+### Observations/Differences/Learnings
+- SPDX License Identifier
