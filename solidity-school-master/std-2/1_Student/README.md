@@ -17,3 +17,7 @@ Solidity events give an abstraction on top of the EVM’s logging functionality.
 
 Events are inheritable members of contracts. When you call them, they cause the arguments to be stored in the transaction’s log - a special data structure in the blockchain.
 
+### Observations/Differences/Learnings
+
+- Mappings
+
