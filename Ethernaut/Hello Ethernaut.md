@@ -1,3 +1,7 @@
+### Type - CTF
+
+*** 
+
 # This level walks you through the very basics of how to play the game.
 
  
